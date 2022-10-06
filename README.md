@@ -103,6 +103,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 * [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
+* [web3-ethereum-defi](https://github.com/tradingstrategy-ai/web3-ethereum-defi) - Trade and integrate DeFi protocols like Uniswap and Aave into your Python app
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
